@@ -1,1 +1,4 @@
 // @include font-face("Muller", "../fonts/MullerRegular", 400, normal);
+@include font-face("Helvetica-normal", "../fonts/helvetica_regular", 400, normal);
+@include font-face("Helvetica-bold", "../fonts/helvetica_bold", 900, bold);
+@include font-face("Helvetica-light", "../fonts/helvetica_light", 200, lighter);
